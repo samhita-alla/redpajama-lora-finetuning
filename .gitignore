@@ -1,0 +1,5 @@
+.python-version
+flyte-slack-data.zip
+.vscode
+__pycache__/
+flyte-slack-data/
